@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <div className="App">Xstate</div>;
+  return <div className="App">XstateAppp</div>;
 }
 
 export default App;
